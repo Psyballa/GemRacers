@@ -1,0 +1,17 @@
+{
+  "appID": "37534368b4af4488be58ad9c10939df9",
+  "dependencies": {
+    "devkit-core": "https://github.com/gameclosure/devkit-core#v3.0.2"
+  },
+  "shortName": "GemRacers",
+  "studio": {
+    "domain": "studio.example.com",
+    "name": "Your Studio Name",
+    "stagingDomain": "staging.example.com"
+  },
+  "supportedOrientations": [
+    "portrait",
+    "landscape"
+  ],
+  "title": "GemRacers"
+}
